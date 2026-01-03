@@ -10,7 +10,7 @@ function Navbar() {
           <img 
             src={logo} 
             alt="logo" 
-            className="w-28 h-20"
+            className="w-32 h-20"
           />
         </NavLink>
         <button className="py-2 px-4 text-md font-semibold text-white rounded-full bg-[#2C3E50] hover:bg-black ransform transition duration-300 hover:scale-105">Join the next edition</button>
